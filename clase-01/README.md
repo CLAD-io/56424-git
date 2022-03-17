@@ -2,9 +2,9 @@
 
 # Consultas y dudas
 
-Consultas en Alumni
-mlapeducacionit@gmail.com
-Telegram: https://t.me/+cMBDxh1Pqcc5NWE5
+* Consultas en Alumni
+* mlapeducacionit@gmail.com
+* Telegram: https://t.me/+cMBDxh1Pqcc5NWE5
 
 ## Introducción a GIT
 https://docs.google.com/presentation/d/17K-hAF-s88vhHxr8gsix1keWOWSLdBhxIfwySiscECQ/edit#slide=id.gecea8e4ed5_0_429
@@ -25,7 +25,6 @@ git config --global user.email "Su Email"
 git init
 ```
 
-
 # Ver los cambios de los archivos
 
 ```sh
@@ -43,3 +42,4 @@ git add <NombreArchivo>
 ```sh
 git commit -m "Mensaje del commit bien describo"
 ```
+
