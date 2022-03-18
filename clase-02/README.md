@@ -56,3 +56,20 @@ git log --after="2020-05-01" --before="2021-05-01" --oneline
 
 # GIT BRANCH (RAMAS)
 
+## Listar las ramas
+
+```sh
+git branch
+```
+
+## Para crear la ramas
+
+```sh
+git branch <nombre-rama>
+```
+
+## Para cambiar entre ramas
+
+```sh
+git switch <nombre-rama>
+```
