@@ -73,3 +73,11 @@ git branch <nombre-rama>
 ```sh
 git switch <nombre-rama>
 ```
+
+# GIT AMEND 
+Si me olvidé algún archivo en el commit o me confundí en la descripción del commit
+
+```sh
+git add <archivos-faltes> # Tienen que estar en el staging area
+git commit --amend 
+```
